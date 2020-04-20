@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 88fef662ca21ecf48945a98f4bba90c5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - foodPizza: {fileID: 5103254030319040051, guid: 412b30e612b7b1e4c8260e002dc65598,
+      type: 3}
+  - foodCoffee: {fileID: 3532258401450274152, guid: bc1173a8500444543bb88bd68bffb3ad,
+      type: 3}
+  - foodDoughnut: {fileID: 5818979307750919753, guid: 528e64b34f4c32d4da410a70628e9ef5,
+      type: 3}
+  - foodPopcorn: {fileID: 7544244301850442184, guid: 9ddd8a34f2a483443a917b7fc7410b06,
+      type: 3}
+  - personA: {fileID: 3758065348494580148, guid: e8b6af8e990fe264cb55caf80a010bb3,
+      type: 3}
+  - personB: {fileID: 3758065348494580148, guid: 296a3daed46818848a9e5556e7fc3d11,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
